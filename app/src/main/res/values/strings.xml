@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI CALCULATOR</string>
+    <string name="bmi_value_formatted" formatted="false">%d %s</string>
+    <string name="ok">OK</string>
+    <string name="licences">Licenses</string>
+    <string name="unit_kg">Kg</string>
+    <string name="unit_cm">cm</string>
+</resources>
